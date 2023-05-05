@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-05T04:56:41.989Z</updated>
+  <updated>2023-05-05T05:32:36.058Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Jisoo</title>
-    <link href="http://example.com/2023/05/05/Jisoo/"/>
-    <id>http://example.com/2023/05/05/Jisoo/</id>
-    <published>2023-05-05T04:56:41.000Z</published>
-    <updated>2023-05-05T04:56:41.989Z</updated>
+    <title>反思与总结</title>
+    <link href="http://example.com/2023/05/05/%E5%8F%8D%E6%80%9D%E4%B8%8E%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2023/05/05/%E5%8F%8D%E6%80%9D%E4%B8%8E%E6%80%BB%E7%BB%93/</id>
+    <published>2023-05-05T05:26:06.000Z</published>
+    <updated>2023-05-05T05:32:36.058Z</updated>
     
+    <content type="html"><![CDATA[<table><thead><tr><th><strong>课程</strong>名称：云计算系统</th><th><strong>年</strong>级：大三</th><th>Lab9</th></tr></thead><tbody><tr><td><strong>姓名</strong>：姚嘉和</td><td><strong>学号</strong>：10205501436</td><td></td></tr></tbody></table><h1 id="Lab9-反思与总结"><a href="#Lab9-反思与总结" class="headerlink" title="Lab9 反思与总结"></a>Lab9 反思与总结</h1><h2 id="一、博客的选择"><a href="#一、博客的选择" class="headerlink" title="一、博客的选择"></a>一、博客的选择</h2><p>本次实验我们选择了hexo作为博客的框架</p><p>Hexo是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。即把用户的markdown文件，按照指定的主题解析成静态网页。本次作业的文章我们都使用了markdown来编写文章，可以达到快速、便捷、美观的效果</p><h2 id="二、博客主题及其选取原因"><a href="#二、博客主题及其选取原因" class="headerlink" title="二、博客主题及其选取原因"></a>二、博客主题及其选取原因</h2><p>本次实验的博客主题选用了Butterfly主题，原因是我觉得这个最好看</p><h2 id="三、实验中遇到的问题"><a href="#三、实验中遇到的问题" class="headerlink" title="三、实验中遇到的问题"></a>三、实验中遇到的问题</h2><p>1.好看的主题太多选不过来，很纠结<br>2.下载hexo和npm插件较慢</p><h2 id="四、反思与总结"><a href="#四、反思与总结" class="headerlink" title="四、反思与总结"></a>四、反思与总结</h2><p>本次实验很好玩，有空会对页面进行美化以及充实</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;课程&lt;/strong&gt;名称：云计算系统&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;年&lt;/strong&gt;级：大三&lt;/th&gt;
+&lt;th&gt;Lab9&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;stro</summary>
+      
     
     
     
